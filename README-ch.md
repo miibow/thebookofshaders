@@ -1,4 +1,4 @@
-<canvas id="custom" class="canvas" data-fragment-url="examples/moon.frag" data-textures="examples/images/moon-texture.jpg" width="350px" height="350px"></canvas>
+<canvas id="custom" class="canvas" data-fragment-url="src/moon/moon.frag" data-textures="src/moon/moon.jpg" width="350px" height="350px"></canvas>
 
 # The Book of Shaders
 *by [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)*
@@ -36,29 +36,29 @@
     * [噪声](11/?lan=ch)
     * [网格噪声](12/?lan=ch)
     * [分形布朗运动](13/?lan=ch)
-    * 分形
+    * [分形](14/?lan=ch)
 
 * 图像处理:
-    * 纹理
-    * 图像处理
-    * 卷积核
-    * 滤镜
-    * 其他效果
+    * [纹理](15/?lan=ch)
+    * [图像处理](16/?lan=ch)
+    * [卷积核](17/?lan=ch)
+    * [滤镜](18/?lan=ch)
+    * [其他效果](19/?lan=ch)
 
 * 模拟
-    * 乒乓
-    * Conway生命游戏
-    * 水波
-    * 水彩
-    * 反应扩散
+    * [乒乓](20/?lan=ch)
+    * [Conway生命游戏](21/?lan=ch)
+    * [水波](22/?lan=ch)
+    * [水彩](23/?lan=ch)
+    * [反应扩散](24/?lan=ch)
 
 * 3D 图形
-    * 灯光
-    * 法线贴图
-    * 凹凸贴图
-    * 光线跟踪（Ray marching）
-    * 环境贴图 (spherical and cube)
-    * 折射和反射
+    * [灯光](25/?lan=ch)
+    * [法线贴图](26/?lan=ch)
+    * [凹凸贴图](27/?lan=ch)
+    * [光线跟踪（Ray marching）](28/?lan=ch)
+    * [环境贴图 (spherical and cube)](29/?lan=ch)
+    * [折射和反射](30/?lan=ch)
 
 * [附录:](appendix/) 其他阅读本书的方式
 	* [如何离线阅读此书?](appendix/?lan=ch)
